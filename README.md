@@ -1,13 +1,11 @@
 # Backtesting Python with Metatrader - Part 1
 
 <!-- START_HEADER -->
-
 Youtube:  
 https://youtu.be/-dYTpbCQu0Q
 
 For a broker with fast execution and tight spreads sign up to IC Markets using our affiliate link <br>
 https://orchardforex.com/ic
-
 <!-- END_HEADER -->
 
 Backtesting a python trading bot with Metatrader isn't as straightforward as just running in testing mode. I'm starting with a simple run through of a backtest in Python and in following tutorials I will introduce capabilities to switch between live and test.
